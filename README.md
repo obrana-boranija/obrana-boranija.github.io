@@ -16,8 +16,9 @@ permalink: /
 > Software Developer | Digital Creator | Technology Enthusiast
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/obrana-boranija)
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](#blog)
-[![Contact](https://img.shields.io/badge/Contact-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](#contact)
+[![Open Source](https://img.shields.io/badge/Open%20Source-%E2%9D%A4%EF%B8%8F-blue)](https://getosirion.com)
+[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://demonjic.com)
+[![Contact](https://img.shields.io/badge/Contact-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://demonjic.com/contact)
 
 ---
 
@@ -51,18 +52,16 @@ Developed and documented advanced caching patterns for high-traffic applications
 ## 💻 Technical Skills
 
 ### Languages & Frameworks
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+[![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#)
+[![Blazor](https://img.shields.io/badge/Blazor-512BD4?logo=blazor&logoColor=fff)](#)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#)
 
 ### Tools & Technologies
-- **Version Control:** Git, GitHub, GitHub Actions
-- **Cloud & CDN:** jsDelivr, Cloudflare, AWS
+- **Version Control:** Git, GitHub, GitHub Actions, Azure DevOps
+- **Cloud & CDN:** jsDelivr, Cloudflare, Azure, Azure Blob
 - **Image Optimization:** Sharp, WebP, automated processing pipelines
 - **Performance:** Lighthouse, Web Vitals, caching strategies
-- **CI/CD:** GitHub Actions, automated workflows
+- **CI/CD:** GitHub Actions, Azure Pipelines, automated workflows
 
 ### Specializations
 - 🎯 Web Performance Optimization
