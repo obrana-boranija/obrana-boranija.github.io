@@ -16,7 +16,7 @@ permalink: /
 > Software Developer | Digital Creator | Technology Enthusiast
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/obrana-boranija)
-[![Open Source](https://img.shields.io/badge/Open%20Source-%E2%9D%A4%EF%B8%8F-blue)](https://getosirion.com)
+[![Open Source](https://img.shields.io/badge/Open%20Source-%E2%9D%A4%EF%B8%8F-blue?style=for-the-badge)](https://getosirion.com)
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://demonjic.com)
 [![Contact](https://img.shields.io/badge/Contact-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://demonjic.com/contact)
 
