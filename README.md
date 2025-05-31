@@ -4,8 +4,8 @@ title: Dejan Demonjić - Developer & Digital Creator
 description: Personal website of Dejan Demonjić - Software developer, blogger, and digital creator. Explore my projects, blog posts, and professional journey.
 keywords: Dejan Demonjić, developer, software engineer, blog, hexavera, portfolio, web development
 author: Dejan Demonjić
-image: https://cdn.jsdelivr.net/gh/obrana-boranija/hexavera-blog@main/Content/Images/Processed/business-people-1200x630.webp
-url: https://obrana-boranija.github.io/hexavera-blog/
+featured_image: https://cdn.jsdelivr.net/gh/obrana-boranija/hexavera-blog@main/Content/Images/Processed/business-people-1200x630.webp
+url: /
 lang: en
 date: 2025-05-23
 permalink: /
